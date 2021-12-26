@@ -31,4 +31,5 @@ B0-05-94-F7-D1-61
   wconv_0_0_1 - версія з графічною оболонкою.
   
   
+![12.png] (https://github.com/Brodajnik/easymacconv/blob/4238b25f5c43079bca6b137b431cda66bbed6acb/12.png)
 
